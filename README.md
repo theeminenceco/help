@@ -1,1 +1,4 @@
-# help
+
+~~~bash
+$ bundle exec jekyll serve
+~~~
