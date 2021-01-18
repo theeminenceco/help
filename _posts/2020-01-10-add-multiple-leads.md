@@ -1,9 +1,9 @@
 ---
 date: 2020-01-10
 title: Add Multiple Leads
-video_id: 7QYZroRVb0A
+video_id: Nw5FLmlQB8I
 description: Add Multiple Leads
-type: Document
+type: Video
 sidebar:
   - {id: add-multiple-leads, text: Add Multiple Leads}
   - {id: additional-information, text: Additional Information}

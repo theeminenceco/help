@@ -1,9 +1,9 @@
 ---
 date: 2020-01-21
 title: Assistant Details
-video_id: ELaE7f0mi4A
+video_id: TcnncjNTGmI
 description: Assistant Behavior, Profile and  Defaults
-type: Document
+type: Video
 sidebar:
   - {id: assistant-profile, text: Assistant Profile}
   - {id: assign-assistant-to-user, text: Assign to User}

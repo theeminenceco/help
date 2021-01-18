@@ -1,9 +1,9 @@
 ---
 date: 2020-01-02
 title: Create your Assistant
-video_id: cHU_bPKqZSg
+video_id: TYCA0diMwZ8
 description: Create your Virtual Assistant 
-type: Document
+type: Video
 sidebar:
   - {id: add-assistant, text: Add Assistant}
   - {id: use-exchange-server, text: Use Exchange Server}

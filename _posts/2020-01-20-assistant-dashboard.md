@@ -1,11 +1,11 @@
 ---
 date: 2020-01-20
 title: Dashboard
-video_id: WXGO0Ghh8nM
+video_id: C9pXo0sHFZU
 description: Assistant Dashboard
 sidebar:
   - {id: questions-answered, text: Questions answered}
-type: Document
+type: Video
 categories:
   - getting-responses
 ---
