@@ -1,7 +1,7 @@
 ---
 date: 2020-01-02
 title: Create your Assistant
-video_id: TYCA0diMwZ8
+video_id: 5-jLS541FTo
 description: Create your Virtual Assistant 
 type: Video
 sidebar:
