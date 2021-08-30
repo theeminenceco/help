@@ -59,7 +59,7 @@ Some responses could be very specific to your industry and customer profile and 
 **Assisted Learning** is the possible solution for above problem. You can provide specific terms from the response email and mention which sub_state and state it should be mapped to. This will be specific to your organisation, any response received will be passed through a rudimentary model created from this small amount of data.  
 * If there is a match with more than 90% confidence then that assisted learning mapping would be used. 
 * If more than one row matches with more than 90% confidence then the highest confidence mapping would be used.
-* If no row with 90% or more confidence matches then anyways the out of box model in 7Targets would be used.
+* If no row with 90% or more confidence matches then anyways the out of box model in TEC would be used.
 
 You would also see a note added mentioning which mapping was used from the Assisted Learning, if Assisted learning mapping is used.
 

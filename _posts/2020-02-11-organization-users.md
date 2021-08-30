@@ -33,7 +33,7 @@ Org Admin have below extra functionalities above a normal user:
 - ability to integrate with CRM
 
 ## Remove users
-When users leave your organization, you would be able to remove those users from 7Targets too.  
+When users leave your organization, you would be able to remove those users from TEC too.  
 Go the Org Users page (`Settings->Org Users`), select the user you would want to remove. The leads of user being removed would have to assigned to the other user from your org, which you would have to select while removing the user.
 
 ## Questions answered
